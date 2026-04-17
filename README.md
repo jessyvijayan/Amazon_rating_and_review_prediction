@@ -28,7 +28,7 @@ Dense Output Layer: A Softmax-activated layer to predict the probability across 
 
 💻 How to Run
 Clone the repository:
-git clone [YOUR_REPO_LINK]
+git clone [git@github.com:jessyvijayan/Amazon_rating_and_review_prediction.git]
 
 Install Dependencies:
 pip install tensorflow pandas nltk numpy
