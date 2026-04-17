@@ -34,5 +34,5 @@ Install Dependencies:
 pip install tensorflow pandas nltk numpy
 
 Run Analysis:
-python amazon_category_classifier.py
+(https://github.com/jessyvijayan/Amazon_rating_and_review_prediction/blob/main/Amazon_rating_reviews_prediction_nlp.ipynb)
 Use code with caution.
